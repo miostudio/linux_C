@@ -1,1 +1,2 @@
 v0.1 basics of C
+v0.2 ReadMe file and practise
