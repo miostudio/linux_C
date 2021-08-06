@@ -1,3 +1,9 @@
 v0.1 basics of C
 v0.2 ReadMe file and practise
 v0.3 MD, practice
+v0.4 linkedList
+
+#
+#-> commit
+#------> push to miostudio/linux_C
+

@@ -9,7 +9,7 @@
 
 
 ## Dir structure
-
+```
 ├── base
 │   ├── 01_base
 │   ├── 02_function
@@ -23,5 +23,9 @@
 └── practice
 
 -- net/10_socket
+-- algrithm/
+  |- 02_linkedList
+
+```
 
 
