@@ -9,6 +9,7 @@
 
 
 ## Dir structure
+
 ```
 ├── base
 │   ├── 01_base
@@ -22,9 +23,16 @@
 │   └── 09_bit
 └── practice
 
--- net/10_socket
--- algrithm/
+
+|-- adv/
+  |- 01_socket
+  |- 02_multi_thread
+
+
+|-- algrithm/
+  |- 01_array
   |- 02_linkedList
+  |- 03_stack
 
 ```
 
