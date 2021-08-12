@@ -2,10 +2,9 @@
 
 
 ## link to:
-  [C note - base](https://github.com/DawnEve/txtBlog/blob/master/data/c/c101-base.txt)
-  [C note - adv](https://github.com/DawnEve/txtBlog/blob/master/data/c/c102-adv.txt)
-
-  [dawneve/learn_C](https://github.com/dawneve/learn_C: learn C on win7 at home)
+- [C note - base](https://github.com/DawnEve/txtBlog/blob/master/data/c/c101-base.txt)
+- [C note - adv](https://github.com/DawnEve/txtBlog/blob/master/data/c/c102-adv.txt)
+- [dawneve/learn_C](https://github.com/dawneve/learn_C: learn C on win7 at home)
 
 
 ## Dir structure
