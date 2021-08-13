@@ -7,6 +7,7 @@ v0.6 update ReadMe.md
 v0.6.1 update ReadMe
 v0.6.2 update ReadMe
 v0.6.3 add algrithm/05_tree
+v0.6.4 update ReadMe
 #
 #-> commit
 #------> push to miostudio/linux_C
