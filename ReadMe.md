@@ -28,7 +28,7 @@
   |- 02_multi_thread
 
 
-|-- algrithm/
+|-- algorithm/
   |- 01_array
   |- 02_linkedList
   |- 03_stack
