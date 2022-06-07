@@ -10,6 +10,21 @@
 ## Dir structure
 
 ```
+$ pwd 
+/data/wangjl/project/linux_C
+
+$ tree -L 1
+.
+├── adv
+├── algorithm
+├── backup
+├── base
+├── changeLog.txt
+├── makefile
+├── practice
+└── ReadMe.md
+
+more detailed:
 ├── base
 │   ├── 01_base
 │   ├── 02_function
