@@ -10,6 +10,7 @@ v0.6.3 add algrithm/05_tree
 v0.6.4 update ReadMe
 v0.6.5 fix spell
 v0.6.5-2 update ReadMe
+v0.6.6 learn C++
 #
 #-> commit
 #------> push to miostudio/linux_C

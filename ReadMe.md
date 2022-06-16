@@ -10,7 +10,7 @@
 ## Dir structure
 
 ```
-$ pwd 
+$ pwd #Y station
 /data/wangjl/project/linux_C
 
 $ tree -L 1
@@ -49,6 +49,10 @@ more detailed:
   |- 03_stack
 
   |- 05_tree
+
+|-- cpp/
+  |- 01_basic/
+  |- 02_class/
 ```
 
 
