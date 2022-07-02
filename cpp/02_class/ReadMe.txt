@@ -7,6 +7,8 @@ a1.cpp class: father and son
         * 变量使用前要声明;
         * 类内部成员变量都要加上 访问控制语句 public/protected/private
 
+    a1_2.cpp 构造函数和析构函数;
+
 a2.cpp 继承: 图形，子类矩形
 a3.cpp 多继承， C++ 支持多继承
 a4.cpp 重载运算符和重载函数
