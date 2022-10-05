@@ -14,20 +14,18 @@ void delete(LinkList *h, int val){
 			flag+=1;
 			pre->next = h->next;
 			free(h); //释放该节点内存
-			
-			if(pre->next != NULL){
-				h=pre->next; //当前节点指向下一个节点
-			}else{
-				h=pre; //下一节点为NULL则指向上一个节点
-			}
+			h=pre;
 		}
 	}
+	
 	if(!flag){
 		printf("没有可删除的元素。\n");
 	}else{
 		printf("删除了%d个元素\n", flag);
 	}
 }
+
+// 1 1 4 1, del 1
 
 
 int main(){
@@ -36,12 +34,10 @@ int main(){
         print(h);//输出链表
         
         printf("输入要删除元素的值\n");
-		int del;
-		scanf("%d", &del);
-        delete(h, del);
-		
-        print(h);
+	int del;
+	scanf("%d", &del);
 
+        delete(h, del);
+        print(h);
         return 0;
 }
-

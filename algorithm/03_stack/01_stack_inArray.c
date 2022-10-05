@@ -22,7 +22,7 @@ int pop(int *stack, int n){
 		printf("空栈\n");
 		return -1;
 	}
-	int ele=stack[n];
+	int ele = stack[n];
 	printf("弹出 %dth: %d\n",n, ele);
 	return --n;
 }

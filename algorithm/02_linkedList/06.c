@@ -8,7 +8,7 @@ void reverse(LinkList* h){
 	LinkList *pre, *cur;
 	
 	//销毁head元素
-	cur=h;
+	cur=h; //中间量，cur->next 保存上一个元素的地址
 	h=h->next;
 	cur->next = NULL;
 	
@@ -39,4 +39,3 @@ int main(){
 	print(h);
 	return 0;
 }
-
