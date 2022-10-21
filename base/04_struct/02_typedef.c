@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
-// 另一种定义方式
+
+// 另一种定义方式，给结构体一个别名
 typedef struct{
   char name[10];
   int age;

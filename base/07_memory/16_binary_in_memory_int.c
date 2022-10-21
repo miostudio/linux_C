@@ -39,6 +39,10 @@ void printf_bin(int num){
 }
 
 
+void show(int a){
+    printf("%s%d ", a>=0?" ":"", a);
+    printf_bin(a);
+}
 
 
 int main(){
@@ -74,6 +78,9 @@ int main(){
     printf_bin(c);
     // 4位2进制 /bit => 1位16进制;  8bit=1byte=1char = 2个16进制位;
     printf("10进制: %d, \t8进制: 0%o, \t16进制: 0x%x  0x%X\n", c,c,c, c); 
+
+    show(6);
+    show(-6);
 
     return 0;
 }

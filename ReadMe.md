@@ -32,7 +32,7 @@ more detailed:
 │   ├── 04_struct
 │   ├── 05_files
 │   ├── 06_linux
-│   ├── 07_memory
+│   ├── 07_memory  csapp
 │   ├── 08_sort
 │   └── 09_bit
 └── practice
