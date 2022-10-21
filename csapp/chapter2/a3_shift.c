@@ -18,7 +18,7 @@ void demo(int x){
     char x2=x<<4;
     show_byte((unsigned char *) &x2, 1);
 
-    //右移4位: 经测试，是算术右移，保持符号不变
+    //右移4位: 经测试，是算术右移，保持符号不变：高位补充最高位的1或者0
     char x3=x>>4;
     show_byte((unsigned char *) &x3, 1);
 }
