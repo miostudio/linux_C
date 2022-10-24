@@ -17,3 +17,20 @@ a7_declaration_function.cpp
 a8_const.cpp 常量的定义，#define SOMETHING value  或 const float PI=3.1415
 a9_static.cpp  static 存储类
 
+
+引用
+b1_ref_para.cpp 引用作为参数可以修改值，和指针功能类似
+b2_ref_return.cpp 返回引用
+
+
+string 类
+c1.cpp #C风格的字符串和string字符串，及转换
+
+vector 容器
+d1.cpp 使用容器保存int,增删改查
+d2.cpp vector 保存string。问题：为什么获取的地址不同呢？
+d3.cpp vector 保存结构体。问题：为什么该程序最后报错：free(): invalid pointer？
+    问题可能是 string 不能使用 memcpy 按位复制
+d4.cpp vector 元素的增删: push_back/insert, erase/pop_back/clear, empty/size
+d5.cpp 容器的排序
+

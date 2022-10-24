@@ -11,4 +11,12 @@ a1.cpp class: father and son
 
 a2.cpp 继承: 图形，子类矩形
 a3.cpp 多继承， C++ 支持多继承
-a4.cpp 重载运算符和重载函数
+
+
+运算符重载
+a4_operator.cpp 重载运算符 operator==
+
+重载函数
+
+
+

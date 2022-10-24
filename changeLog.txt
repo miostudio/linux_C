@@ -16,6 +16,8 @@ v0.6.8 add C++
 v0.6.9 add c中int和float的二进制表示; update 链表
 v0.7.0 update struct; add files in memory(csapp);
 v0.7.1 update ReadMe; add new dir /csapp
+v0.7.2 relean cpp: www.freecplus.net
+    http://www.freecplus.net/2cf62b4695a8462dbbab205af42df54f.html
 #
 #-> commit
 #------> push to miostudio/linux_C
