@@ -32,5 +32,6 @@ d2.cpp vector 保存string。问题：为什么获取的地址不同呢？
 d3.cpp vector 保存结构体。问题：为什么该程序最后报错：free(): invalid pointer？
     问题可能是 string 不能使用 memcpy 按位复制
 d4.cpp vector 元素的增删: push_back/insert, erase/pop_back/clear, empty/size
-d5.cpp 容器的排序
+d5.cpp 容器的排序。作业: 封装一个随机数函数  http://www.freecplus.net/2cf62b4695a8462dbbab205af42df54f.html
+
 

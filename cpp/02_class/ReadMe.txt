@@ -20,3 +20,10 @@ a4_operator.cpp 重载运算符 operator==
 
 
 
+动态内存管理
+b1.cpp 使用new申请内存，使用delete释放内存
+    datetype *pointer = new datatype; //会调用构造函数
+    delete pointer; //会调用析构函数
+
+
+

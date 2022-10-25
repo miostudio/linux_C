@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-// vector的操作
+// vector的操作: 增 删 元素
 void print(vector<int> v1){
     cout << "[";
     for(auto i: v1)
