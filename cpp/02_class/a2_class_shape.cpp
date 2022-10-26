@@ -3,9 +3,9 @@ using namespace std;
 
 class Shape
 {
-    protected:
+    protected: //只有其子类可以访问
         int width;
-    public:
+    public: //谁都可以访问
         int height;
     public:
         void setWidth(int w)

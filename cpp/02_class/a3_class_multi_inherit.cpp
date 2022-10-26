@@ -24,7 +24,7 @@ class PaintCost
     public:
         int getCost(int area)
         {
-            return area*70;
+            return area*10;
         }
 };
 
@@ -44,16 +44,16 @@ int main()
     Rectangle rect;
     int area;
 
-    rect.setHeight(50);
-    rect.setWidth(70);
+    rect.setHeight(5);
+    rect.setWidth(7);
 
-    area=rect.getArea();
+    area=rect.getArea(); //从父类1继承的方法
 
     //输出对象的面积
     cout << "Total area: " << area << endl;
 
     //输出总花费
-    cout << "Total cost: $"<< rect.getCost(area) << endl;
+    cout << "Total cost: $"<< rect.getCost(area) << endl; //从父类2继承的方法
 
     return 0;
 }
