@@ -7,10 +7,8 @@
 #include <sys/socket.h>
 #include <arpa/inet.h>
  
-int main(int argc,char *argv[])
-{
-  if (argc!=2)
-  {
+int main(int argc,char *argv[]) {
+  if (argc!=2)  {
     printf("Using:./server port\nExample:./server 5005\n\n"); return -1;
   }
  

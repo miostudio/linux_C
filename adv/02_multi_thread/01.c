@@ -3,7 +3,9 @@
 //#include <time.h>
 //#include <windows.h>//使用Sleep的头
 //#include <unistd.h>
-
+/*
+$ gcc 01.c -lpthread
+*/
 int g_number = 0;
 
 #define MAX_COUNT 10000

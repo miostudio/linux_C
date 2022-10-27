@@ -21,6 +21,7 @@ v0.7.2 relearn cpp: www.freecplus.net
 v0.7.3 learn cpp: vector sort; new / delete
 v0.7.4 learn socket; 多态; memset;
 v0.7.5 learn socket: 封装为C风格函数，和 C++风格的类
+v0.7.6 learn 进程 getpid, fork; 读写结构体文件 fscanf, fprintf
 #
 #-> commit
 #------> push to miostudio/linux_C

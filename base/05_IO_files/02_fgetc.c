@@ -16,6 +16,7 @@ int main(){
     printf("%c", c);
     n++;
   }
+  
   printf("Read a file of length: %d\n", n);
   // 关闭文件
   fclose(fp);

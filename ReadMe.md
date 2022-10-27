@@ -9,6 +9,14 @@
 
 ## Dir structure
 
+- 建立自己的库，保存好用的工具函数和类: `Miolib/_public.h` 和 `Miolib/_public.cpp`
+- 注意：
+  * 该repo练习为主，会持续增删改，所以该库仅用于汇集我写过的好代码片段(函数和类)，不建议用于编译。
+  * 随着理解的深入，可能会有重复函数名，最好注明来源的文件夹，并把不好的版本删除或者注释掉。
+  * 做好注释：目的、参数意义、返回值、使用示例。
+
+
+
 ```
 $ pwd #Y station
 /data/wangjl/project/linux_C
@@ -23,6 +31,7 @@ $ tree -L 1
 ├── practice
 ├── algorithm
 ├── backup //不需要Git跟踪的代码，暂存
+├── Miolib  //我自己的工具库: 函数 + 类
 ├── changeLog.txt ==> Git 历史记录
 └── ReadMe.md: 本简介
 
