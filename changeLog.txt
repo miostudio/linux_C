@@ -23,6 +23,7 @@ v0.7.4 learn socket; 多态; memset;
 v0.7.5 learn socket: 封装为C风格函数，和 C++风格的类
 v0.7.6 learn 进程 getpid, fork; 读写结构体文件 fscanf, fprintf
 v0.7.7 回溯法：四皇后问题，无全局变量的N皇后问题; csapp:尝试看反汇编
+v0.7.8 回溯法：四皇后问题，使用二级指针代替变长数组
 #
 #-> commit
 #------> push to miostudio/linux_C

@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+//变长数组: https://blog.csdn.net/weixin_44788542/article/details/125799645
+
+
 //打印数组
 void printRec(int len, int (*arr)[len]){
     printf("\n%p\n", arr);
