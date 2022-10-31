@@ -16,6 +16,10 @@ https://github.com/miostudio/linux_C/tree/master/algorithm
 		a1.c 综合示例
 		
 B_ 算法
+	B01 二分法
+	B02 贪婪
+	B03 分治
+	B04 回溯法
 
 
 M_ 数学算法
